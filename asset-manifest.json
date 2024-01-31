@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exspenses-/static/css/main.038c2c0d.css",
+    "main.js": "/exspenses-/static/js/main.a38041b6.js",
+    "index.html": "/exspenses-/index.html",
+    "main.038c2c0d.css.map": "/exspenses-/static/css/main.038c2c0d.css.map",
+    "main.a38041b6.js.map": "/exspenses-/static/js/main.a38041b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.038c2c0d.css",
+    "static/js/main.a38041b6.js"
+  ]
+}
