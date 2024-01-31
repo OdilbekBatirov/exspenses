@@ -21,7 +21,8 @@ const ExpensesForm = ({ onClick, onSubmit }) => {
   }
 
 
-  const submitHandler = () => {
+  const submitHandler = (event) => {
+    event.preventDefault()
     const product = {
       title: inputText,
       price: inputNumber,
